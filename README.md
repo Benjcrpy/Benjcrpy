@@ -1,6 +1,6 @@
 ![image alt](https://github.com/Benjcrpy/Benjcrpy/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Anthony Agapay</h1>
-<h3 align="center">A passionate Software Developer from Philippines</h3>
+<h3 align="center">Aspiring Software Engineer from Philippines</h3>
 
 - 🌱 I’m currently learning **Next.Js, Nodes.Js, Expess.Js,**
 
