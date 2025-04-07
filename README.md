@@ -1,7 +1,7 @@
 ![image alt](https://raw.githubusercontent.com/Benjcrpy/Benjcrpy/refs/heads/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Anthony Agapay</h1>
 <h3 align="center">A passionate Software Developer from Philippines</h3>
-<h4 align="center">Aspiring as fullStack Developer here from Philippines</h4>
+<h4 align="center">Aspiring as FullStack Developer here from Philippines</h4>
 
 - 🌱 I’m currently learning **Next.Js, Nodes.Js, Expess.Js,**
 
