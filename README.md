@@ -1,4 +1,4 @@
-![image alt]([https://github.com/Benjcrpy/Benjcrpy/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png?raw=true](https://github.com/Benjcrpy/Benjcrpy/blob/main/banner1.png?raw=true))
+![image alt](https://raw.githubusercontent.com/Benjcrpy/Benjcrpy/refs/heads/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Anthony Agapay</h1>
 <h3 align="center">A passionate Software Developer from Philippines</h3>
 <h4 align="center">Aspiring as fullStack Developer here from Philippines</h4>
